@@ -1,0 +1,87 @@
+[Relação de pacotes agrupados por Tipo de produto]
+
+----------[Relação de Pacotes com - Jóias]---------- 
+Pacote: 3,
+Codigo :  222333555124000
+Regiao de Origem : 222
+Regiao de Destino : Nordeste
+Codigo Loggi : 555
+Codigo do vendedor do produto : 124
+Tipo do produto : Jóias
+
+Pacote: 11,
+Codigo :  555888555123000
+Regiao de Origem : Norte
+Regiao de Destino : Sudeste
+Codigo Loggi : 555
+Codigo do vendedor do produto : 123
+Tipo do produto : Jóias
+
+Pacote: 14,
+Codigo :  000111555874000
+Regiao de Origem : Sul
+Regiao de Destino : Centro-oeste
+Codigo Loggi : 555
+Codigo do vendedor do produto : 874
+Tipo do produto : Jóias
+
+----------[Relação de Pacotes com - Brinquedos]---------- 
+Pacote: 1,
+Codigo :  888555555123888
+Regiao de Origem : Sudeste
+Regiao de Destino : Norte
+Codigo Loggi : 555
+Codigo do vendedor do produto : 123
+Tipo do produto : Brinquedos
+
+Pacote: 7,
+Codigo :  555555555123888
+Regiao de Origem : Norte
+Regiao de Destino : Norte
+Codigo Loggi : 555
+Codigo do vendedor do produto : 123
+Tipo do produto : Brinquedos
+
+----------[Relação de Pacotes com - Eletrônicos]---------- 
+Pacote: 6,
+Codigo :  111333555123333
+Regiao de Origem : Centro-oeste
+Regiao de Destino : Nordeste
+Codigo Loggi : 555
+Codigo do vendedor do produto : 123
+Tipo do produto : Eletrônicos
+
+Pacote: 13,
+Codigo :  888000555845333
+Regiao de Origem : Sudeste
+Regiao de Destino : Sul
+Codigo Loggi : 555
+Codigo do vendedor do produto : 845
+Tipo do produto : Eletrônicos
+
+----------[Relação de Pacotes com - Livros]---------- 
+----------[Relação de Pacotes com - Bebidas]---------- 
+Pacote: 4,
+Codigo :  000111555874555
+Regiao de Origem : Sul
+Regiao de Destino : Centro-oeste
+Codigo Loggi : 555
+Codigo do vendedor do produto : 874
+Tipo do produto : Bebidas
+
+Pacote: 12,
+Codigo :  111888555123555
+Regiao de Origem : Centro-oeste
+Regiao de Destino : Sudeste
+Codigo Loggi : 555
+Codigo do vendedor do produto : 123
+Tipo do produto : Bebidas
+
+Pacote: 15,
+Codigo :  111333555123555
+Regiao de Origem : Centro-oeste
+Regiao de Destino : Nordeste
+Codigo Loggi : 555
+Codigo do vendedor do produto : 123
+Tipo do produto : Bebidas
+

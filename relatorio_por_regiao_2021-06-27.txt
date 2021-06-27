@@ -1,0 +1,87 @@
+[Relação de pacotes agrupadas por região de destino] 
+
+---------[Lista de pacotes com destino - Centro-oeste]---------
+Pacote: 4,
+Codigo :  000111555874555
+Regiao de Origem : Sul
+Regiao de Destino : Centro-oeste
+Codigo Loggi : 555
+Codigo do vendedor do produto : 874
+Tipo do produto : Bebidas
+
+Pacote: 14,
+Codigo :  000111555874000
+Regiao de Origem : Sul
+Regiao de Destino : Centro-oeste
+Codigo Loggi : 555
+Codigo do vendedor do produto : 874
+Tipo do produto : Jóias
+
+---------[Lista de pacotes com destino - Nordeste]---------
+Pacote: 3,
+Codigo :  222333555124000
+Regiao de Origem : 222
+Regiao de Destino : Nordeste
+Codigo Loggi : 555
+Codigo do vendedor do produto : 124
+Tipo do produto : Jóias
+
+Pacote: 6,
+Codigo :  111333555123333
+Regiao de Origem : Centro-oeste
+Regiao de Destino : Nordeste
+Codigo Loggi : 555
+Codigo do vendedor do produto : 123
+Tipo do produto : Eletrônicos
+
+Pacote: 15,
+Codigo :  111333555123555
+Regiao de Origem : Centro-oeste
+Regiao de Destino : Nordeste
+Codigo Loggi : 555
+Codigo do vendedor do produto : 123
+Tipo do produto : Bebidas
+
+---------[Lista de pacotes com destino - Norte]---------
+Pacote: 1,
+Codigo :  888555555123888
+Regiao de Origem : Sudeste
+Regiao de Destino : Norte
+Codigo Loggi : 555
+Codigo do vendedor do produto : 123
+Tipo do produto : Brinquedos
+
+Pacote: 7,
+Codigo :  555555555123888
+Regiao de Origem : Norte
+Regiao de Destino : Norte
+Codigo Loggi : 555
+Codigo do vendedor do produto : 123
+Tipo do produto : Brinquedos
+
+---------[Lista de pacotes com destino - Sudeste]---------
+Pacote: 11,
+Codigo :  555888555123000
+Regiao de Origem : Norte
+Regiao de Destino : Sudeste
+Codigo Loggi : 555
+Codigo do vendedor do produto : 123
+Tipo do produto : Jóias
+
+Pacote: 12,
+Codigo :  111888555123555
+Regiao de Origem : Centro-oeste
+Regiao de Destino : Sudeste
+Codigo Loggi : 555
+Codigo do vendedor do produto : 123
+Tipo do produto : Bebidas
+
+---------[Lista de pacotes com destino - Sul]---------
+Pacote: 13,
+Codigo :  888000555845333
+Regiao de Origem : Sudeste
+Regiao de Destino : Sul
+Codigo Loggi : 555
+Codigo do vendedor do produto : 845
+Tipo do produto : Eletrônicos
+
